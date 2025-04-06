@@ -13,6 +13,8 @@
   --transition-speed: 0.3s;
 
   --text-direction: rtl;
+
+  --animation-duration: 0.8s;
 }
 
 html {
