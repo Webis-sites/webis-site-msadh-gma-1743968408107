@@ -1,8 +1,78 @@
 {
-  "projectName": "מסעדה-גמא-9078",
-  "businessName": "מסעדה גמא",
-  "created": "2025-04-06T19:51:18.337Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T19:52:11.374Z",
+  "status": {
+    "totalComponents": 11,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "RTL header with logo and navigation menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and booking CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the restaurant's background and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the restaurant's services"
+    },
+    {
+      "name": "ProductsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Section showcasing the restaurant's menu items and products"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Section with a booking form for reservations"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Section displaying customer testimonials"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Section with frequently asked questions"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Section with contact information and contact form"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with copyright, links and additional information"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button to scroll back to the top of the page"
+    }
+  ],
+  "repoName": "webis-site-msadh-gma-1743968408107"
 }
