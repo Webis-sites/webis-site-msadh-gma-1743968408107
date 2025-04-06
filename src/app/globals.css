@@ -15,6 +15,9 @@
   --text-direction: rtl;
 
   --animation-duration: 0.8s;
+
+  --card-transition: 0.3s;
+  --rtl-direction: rtl;
 }
 
 html {
