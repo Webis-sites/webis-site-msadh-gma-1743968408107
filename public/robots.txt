@@ -1,0 +1,6 @@
+# robots.txt for מסעדה גמא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://מסעדה-גמא.com/sitemap.xml
