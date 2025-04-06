@@ -21,6 +21,10 @@
 
   --card-animation-duration: 0.5s;
   --product-card-radius: 12px;
+
+  --scroll-button-size: 3rem;
+  --scroll-button-size-md: 3.5rem;
+  --scroll-animation-duration: 0.3s;
 }
 
 html {
